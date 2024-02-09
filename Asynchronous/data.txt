@@ -1,0 +1,2 @@
+example file for ajax call on a remote web server
+date: 05/01/2024
